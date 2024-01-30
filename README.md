@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asad Rafique</h1>
 <h3 align="center">A passionate frontend flutter app,web developer from Pakistan</h3>
 
-<img align="right" alt="Coding"width="400" src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg"
+<img align="right" alt="Coding" width="400" src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg">
+
 
 
 
@@ -40,6 +41,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-rafique&show_icons=true&locale=en" alt="asad-rafique" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-rafique&" alt="asad-rafique" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
