@@ -1,7 +1,7 @@
 ![logo](https://github.com/Asad-Rafique/Asad-Rafique/blob/main/My%20Perofile%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Asad Rafique</h1>
-<h3 align="center">A passionate frontend flutter app,web developer from Pakistan</h3>
+<h3 align="center">A passionate frontend Laravel web developer,flutter app,web developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg">
 
