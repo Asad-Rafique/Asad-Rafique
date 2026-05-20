@@ -1,94 +1,141 @@
+```html
 ![logo](https://github.com/Asad-Rafique/Asad-Rafique/blob/main/My%20Perofile%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Asad Rafique</h1>
-<h3 align="center">A passionate frontend Laravel web developer,flutter app,web developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg">
+<h3 align="center">
+Laravel Developer | Backend Developer | CRM & Dashboard Management System Specialist
+</h3>
 
+<img align="right" alt="Coding" width="400"
+src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg">
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asad-rafique&label=Profile%20views&color=0e75b6&style=flat" alt="asad-rafique" /> </p>
-
-- 🔭 I’m currently working on Traffic sign app in Pakistan [Traffic sign app](https://www.figma.com/file/2rZlGfil4GAOzwhn5ST6Xo/Traffic-sign-test-pk?type=design&mode=design&t=6Q3q9NfnBZAvOmmw-1)
-
-- 🌱 I’m currently learning **Machen Learning,**
-
-- 👯 I’m looking to collaborate on [Your frontend Design](https://play.google.com/store/search?q=devglim&c=apps&hl=en&gl=US)
-
-- 🤝 I’m looking for help with [Any ui/ux figma design](https://www.figma.com/file/bWplziZFg4TrGY3PCngFaK/Blood-Pressure-App-figma-format?type=design&mode=design&t=6Q3q9NfnBZAvOmmw-1)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Asad-Rafique?tab=repositories](https://github.com/Asad-Rafique?tab=repositories)
-
-- 💬 Ask me about **👋 Hey there! I'm Asad Rafique, a passionate developer with a focus on Flutter app development, MVC web, .NET Blazor, and Figma design.**
-
-- 📫 How to reach me **asadrafique280@gmail.com**
-
-- 📄 Know about my experiences [2 year flutter app development](2 year flutter app development)
-
-- ⚡ Fun fact **Yes, i am funy 🤣😂💕🤣🤣✨😍😍😉😎😎**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asad rafique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad rafique" height="30" width="40" /></a>
-<a href="https://kaggle.com/asad rafique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asad rafique" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=asad-rafique&label=Profile%20views&color=0e75b6&style=flat" alt="asad-rafique" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-rafique&show_icons=true&locale=en&layout=compact" alt="asad-rafique" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-rafique&show_icons=true&locale=en" alt="asad-rafique" /></p>
+- 💻 Specialized in **Laravel Backend Development**
+- 🔗 Building secure **REST APIs** for mobile apps & web platforms
+- 📊 Experienced in **CRM Systems, Dashboard Management Systems & Admin Panels**
+- 🏥 Working on **Hospital Management Systems**
+- 📦 Developed **Inventory Management Systems**
+- ✅ Built multiple **Task Management Systems**
+- ⚡ Strong knowledge of **Authentication, Roles & Permissions**
+- 🛠️ Working with **Laravel, MySQL, APIs & Database Design**
+- 🎨 Able to convert **Figma Designs into Functional Dashboards**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-rafique&" alt="asad-rafique" /></p>
+---
 
+## 👨‍💻 Current Projects
 
+### 📌 Lobo Dashboard System
+Admin dashboard & API management system for mobile applications.
 
+🔗 https://lobo.gifiring.com/dashboard
 
+---
 
+### 📌 Chickliy Dashboard System
+Currently working on the dashboard management system and backend APIs.
 
+🌐 https://chickliy.com/?lang=en
 
+🎨 Figma Design:
+https://www.figma.com/design/KuNDMZephPXQ9QZSOMPsR1/Chickliy?node-id=22058-667&p=f&m=dev
 
+---
 
+## 🛠️ Systems I Have Worked On
 
+✅ CRM Management Systems  
+✅ Hospital Management Systems  
+✅ Inventory Management Systems  
+✅ Task Management Systems  
+✅ Admin Dashboard Systems  
+✅ API Development for Mobile Apps  
+✅ Authentication & Role Management  
+✅ Database Management & Optimization  
 
+---
 
+## 📫 Contact Me
 
+- 📧 Email: **asadrafique280@gmail.com**
+- 📱 WhatsApp: **+923206326121**
+- 💼 GitHub: https://github.com/Asad-Rafique
 
+---
 
+## 🛠️ Languages & Tools
 
+<p align="left">
 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
+alt="laravel" width="40" height="40"/>
+</a>
 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+alt="php" width="40" height="40"/>
+</a>
 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
+alt="mysql" width="40" height="40"/>
+</a>
 
+<a href="https://figma.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+alt="figma" width="40" height="40"/>
+</a>
 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+alt="bootstrap" width="40" height="40"/>
+</a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+alt="javascript" width="40" height="40"/>
+</a>
 
+<a href="https://jquery.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg"
+alt="jquery" width="40" height="40"/>
+</a>
 
+</p>
 
+---
 
+## 📊 GitHub Stats
 
+<p>
+<img align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-rafique&show_icons=true&locale=en&layout=compact"
+alt="asad-rafique" />
+</p>
 
+<p>
+<img align="center"
+src="https://github-readme-stats.vercel.app/api?username=asad-rafique&show_icons=true&locale=en"
+alt="asad-rafique" />
+</p>
 
+<p>
+<img align="center"
+src="https://github-readme-streak-stats.herokuapp.com/?user=asad-rafique&"
+alt="asad-rafique" />
+</p>
 
+---
 
+## ⚡ Fun Fact
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+💡 I enjoy building scalable backend systems, solving complex Laravel problems, and creating powerful dashboard management systems 🚀
+```
