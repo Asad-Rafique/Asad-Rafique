@@ -1,5 +1,5 @@
-```html
-![logo](https://github.com/Asad-Rafique/Asad-Rafique/blob/main/My%20Perofile%20(1).png)
+
+![logo](https://github.com/Asad-Rafique/Asad-Rafique/blob/main/Laravel%20Full%20Stack%20Developer.png)
 
 <h1 align="center">Hi 👋, I'm Asad Rafique</h1>
 
@@ -138,4 +138,3 @@ alt="asad-rafique" />
 ## ⚡ Fun Fact
 
 💡 I enjoy building scalable backend systems, solving complex Laravel problems, and creating powerful dashboard management systems 🚀
-```
